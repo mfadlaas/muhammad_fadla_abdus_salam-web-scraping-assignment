@@ -1,7 +1,8 @@
 #List of countries by air pollution: 2020 list (UChicago ACLI 2020) - Wikipedia
 
-dari website Wikipedia Mengambil data table ranking polusi negara di dunia tahun 2020
+Dari website Wikipedia Mengambil data table ranking polusi negara di dunia tahun 2020
 
-All data are valid for the year 2020 and are taken from the Air Quality Life Index (ACLI) of the University of Chicago. 
-In addition to particulate matter pollution, 
-the modeled potential loss of life expectancy of the population due to particulate matter pollution is given
+Daftar negara berdasarkan polusi udara berikut ini mengurutkan negara-negara di dunia 
+berdasarkan konsentrasi rata-rata materi partikulat (PM2.5) yang terukur dalam mikrogram per meter kubik (μg/m3).
+Selain polusi materi partikulat, model potensi hilangnya harapan hidup penduduk akibat polusi materi partikulat diberikan (loss of life expectancy)
+
